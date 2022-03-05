@@ -1,0 +1,15 @@
+.btn-blue{
+	background-color: #BB6464;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: white;
+	box-shadow: 3px 3px 20px rgba(0, 0, 0, 0.2);
+	font-family: Montserrat;
+	font-weight: 400;
+	text-align: center;
+	
+}
+
+.btn-blue:hover{
+	background-color: #632626;
+}

@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300;500;600;800&display=swap');
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body{
+	font-family: Montserrat;
+	font-weight: 300;
+	font-size: 16px;
+	margin: 0px;
+	background-color: #F7ECDE;
+}
+
+h1{
+	font-family: Montserrat;
+	font-weight: 800;
+	font-size: 35px;
+}
+
+h2{
+	font-family: Montserrat;
+	font-weight: 700;
+	font-size: 24px;
+	margin-top: 40px;
+}
+h2.text-extramargin{
+	margin-top: 60px;
+}
+
+a{
+	text-decoration: none;
+}
+
+h3{
+	font-family: Montserrat;
+	font-weight: 700;
+	font-size: 18px;
+}
